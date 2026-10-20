@@ -1,0 +1,48 @@
+---
+title: "SQL Workshop"
+---
+
+This workshop introduces you to SQL, a powerful language originally designed for managing and querying relational databases and now widely used across data applications. You’ll learn what a relational database is and master the basics of SQL syntax for retrieving data with queries. Taking a hands-on approach, the workshop gives you plenty of opportunities to practise writing and running SQL queries through practical exercises.
+
+------------------------------------------------------------------------
+
+### What To Prepare
+
+In this workshop, we will mostly use [Google Colab](https://colab.research.google.com/) as our coding environment. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.
+
+Please make sure you have a Google account and can access Google Colab. If you have not used Google Colab before, please go through the three Colab tutorials below to get familiar with the environment.
+
+-   [Welcome to Colab!](https://colab.research.google.com/notebooks/intro.ipynb)
+-   [Overview of Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+-   [Guide to Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+
+If you want to get a head start on SQL before the workshop, you can work through the following online course. (It is not required, but it will help you get more out of the workshop.)
+
+-   [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming-8382385){target="_blank"} (1h 27m).
+
+This online course is available through LinkedIn Learning. You can get free access to LinkedIn Learning by applying for a Toronto Public Library (TPL) card, and login LinkedIn Learning via its [TPL get-started page](https://www.linkedin.com/learning-login/go/tpl){target="_blank"}. (You can get a TPL [Digital Access Card](https://tpl.ca/help/your-library-card/){target="_blank"} without even visiting a library branch.)
+
+
+### Slides
+
+-   *Coming Soon*
+
+### Notebook
+
+-   *Coming Soon*
+
+------------------------------------------------------------------------
+
+### Resources
+
+-    [SQL Tutorial](https://www.w3schools.com/sql/) by W3Schools
+-    [SQLite Tutorial](https://www.sqlitetutorial.net/) by SQLite Tutorial
+-    [SQL Tutorial for Data Scientists & Data Analysts](https://datalemur.com/sql-tutorial) by Data Lemur
+-    [SQL Interview Blog](https://datalemur.com/blog/) by Data Lemur ([cheat sheet](https://datalemur.com/blog/sql-interview-cheat-sheet), [questions](https://datalemur.com/questions), [guide](https://datalemur.com/blog/sql-interview-guide) etc.)
+-    [SQL Window Functions Explained](https://antonz.org/sql-window-functions-book/) by Anton Zhiyanov (a solid start on window functions)
+-    [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus) by Data with Baraa
+-    [Practical SQL](https://practicalsql.com/) by Anthony DeBarros (available at UofT library)
+
+------------------------------------------------------------------------
+
+Back to [MDAL Computing Page](https://rmdal.github.io/)
