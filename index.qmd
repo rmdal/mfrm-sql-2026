@@ -25,11 +25,11 @@ This online course is available through LinkedIn Learning. You can get free acce
 
 ### Slides
 
--   *Coming Soon*
+-   [SQL Intro](sql_intro.pdf)
 
 ### Notebook
 
--   *Coming Soon*
+-   SQL Intro Notebook ( [![](colab-badge.svg)](https://colab.research.google.com/github/rmdal/mfrm-sql-2026/blob/master/docs/SQL_Intro_Sqlite_2026.ipynb) )
 
 ------------------------------------------------------------------------
 
