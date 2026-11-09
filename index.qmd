@@ -26,6 +26,7 @@ This online course is available through LinkedIn Learning. You can get free acce
 ### Slides
 
 -   [SQL Intro](sql_intro.pdf)
+-   [Extra Slides](summary_and_more.pdf)
 
 ### Notebook
 
